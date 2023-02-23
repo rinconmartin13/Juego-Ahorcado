@@ -1,3 +1,3 @@
 # ahorcado
-Un ahorcado hecho con JS, HTML y css
+Un juego de ahorcado hecho con JS, HTML y css
 
